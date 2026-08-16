@@ -21,6 +21,9 @@ Communication and quality assurance are embedded into the rhythm and tooling: sh
 
 ## Documentation by Phase
 
+### Overview
+- **[Project Management Overview](./octoacme-project-management-overview.md)** — Concise introduction to OctoAcme's approach, roles, and key artifacts
+
 ### Initiation
 - **[Project Initiation Guide](./octoacme-project-initiation.md)** — Define initial steps, validate need, align stakeholders
 - **[Roles and Personas](./octoacme-roles-and-personas.md)** — Understand team roles and responsibilities
